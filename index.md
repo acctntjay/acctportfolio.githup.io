@@ -1,4 +1,4 @@
-## Studying Remotely at US College while living in Korea
+# Studying Remotely at US College while living in Korea
 
 I am senior accounting student of the Ohio State University. I am currently living in Korea due to COVID-19 concern and studying remotely from here.
 
