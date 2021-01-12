@@ -24,8 +24,8 @@ Like me, if you are taking classes far away from the school, there can be signif
 Although I am accounting student and I am not majoring in computer-related subject, I am currently studying computer science by myself and focusing on learning JAVA and Python. Also I am taking some lessons about Swift to do some side projects related to iOS
 
 ## Works I have completed
-### Developing codes that can possibly automate tasks related to my previous job (sorting and manipulating pdf files through Python)
-### Swift project to develop a hangman style game
+1. Developing codes that can possibly automate tasks related to my previous job (sorting and manipulating pdf files through Python)
+2. Swift project to develop a hangman style game
 
 ## Support or Contact
 If you have anything to ask me, feel free to shoot me an email!
