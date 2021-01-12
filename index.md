@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Studying Remotely at US College while living in Korea
 
-You can use the [editor on GitHub](https://github.com/acctntjay/acctportfolio.githup.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am senior accounting student of the Ohio State University. I am currently living in Korea due to COVID-19 concern and studying remotely from here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pros and cons of studying remotely
 
-### Markdown
+There are some advantage and disadvantage relate to study remotely in college
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pros
+# Number 1 : You can set your own class and study schedule
+Many of the online classes are administered in asynchronous format - meaning that you can take class and study whenever it works for you as long as you complete everything before due date!
 
-```markdown
-Syntax highlighted code block
+# Number 2 : No need to commute
+You don't have to worry about taking a bus every day and wasting around 30 miniutes simply to get to the classroom from home
 
-# Header 1
-## Header 2
-### Header 3
+## Cons
+# Number 1 : Procrastinating
+Because there is no one watching you, it is much easier to procrastinate and not take class until it is almost too late
 
-- Bulleted
-- List
+# Number 2 : Time zone difference
+Like me, if you are taking classes far away from the school, there can be significant time difference which force you to attend lecture in the middle of the night
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acctntjay/acctportfolio.githup.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Additional Information About Me
+Although I am accounting student and I am not majoring in computer-related subject, I am currently studying computer science by myself and focusing on learning JAVA and Python. Also I am taking some lessons about Swift to do some side projects related to iOS
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have anything to ask me, feel free to shoot me an email!
